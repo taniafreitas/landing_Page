@@ -1,0 +1,75 @@
+
+.container{
+    top:0;
+    left:0;
+    position: absolute;
+    height:100vh;
+    width:100vw;
+    /* adicionando imagem de fundo &ensp;*/
+    background-image: url('imgcontainer.png');
+    background-size: cover;
+    display:flex;
+   
+    }
+    
+
+.par{
+    color: #7B46BE;
+    position:absolute;
+    text-align:justify;
+    left:150px;
+    right:100px;
+    font-size: 23px;
+    display: inline-block;
+    top:30px;
+    display: flex;
+    align-items: center;
+    
+
+}
+
+
+.text2{
+    color:#7B46BE;
+    font-size:50px;
+    text-align: left;
+    position: relative;
+    top:80px;
+    left:150px;
+    right:100px;
+    margin-right: 800px;
+
+}
+
+.text3{
+    color:#120a8f;
+     font-size:25px;
+    text-align: left;
+    position: relative;
+    top:0px;
+    left:150px;
+    right:0px;
+    margin-right: 900px
+}
+
+
+
+#tel{
+    color:blue;
+    font-size:20px;
+    align-items:right;
+    top: 30px;
+    right:170px;
+    position:absolute;
+    display: flex;
+    align-items: center;
+}
+ .img3{
+     top:130px;
+     width:0;
+     height:0;
+     left:750px;
+     position:absolute;
+     
+    
+ }
